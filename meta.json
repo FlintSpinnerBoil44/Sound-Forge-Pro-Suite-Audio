@@ -1,0 +1,24 @@
+{
+  "repo": "sound-forge-professional-suite-audio",
+  "product": "Sound Forge Pro Suite Audio",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "sound-forge-pro-audio",
+    "sound-forge",
+    "sound-forge-audio",
+    "sound-forge-pro",
+    "audio-editing",
+    "how-to-install-sound-forge",
+    "how-to-setup-sound-forge",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Sound Forge Pro Suite Audio"
+}
